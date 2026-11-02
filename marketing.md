@@ -32,6 +32,7 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 ## Lead Generation
 
 - **[Clearbit](https://clearbit.com/)** - Provides real-time data intelligence for lead generation and enrichment, helping businesses target customers better.
+- **[Revenue Scout](https://revenuescout.ai/)** - Uses AI to find sales leads on seven social platforms. You review and post reply drafts yourself. Free tier and paid plans.
 - **[HubSpot AI](https://www.hubspot.com/)** - AI-driven CRM platform with marketing automation for nurturing leads.
 - **[Leadfeeder](https://www.leadfeeder.com/)** - AI-based tool for tracking website visitors and identifying sales leads.
 
@@ -68,6 +69,7 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 ## SEO & Search Optimization
 
 - **[MarketMuse](https://www.marketmuse.com/)** - AI content optimization tool that helps marketers improve SEO performance by analyzing content gaps and providing keyword suggestions.
+- **[Akii: SEO & AI Search Optimizer](https://github.com/akii-technologies-ltd/akii-seo-ai-search-optimizer)** - Free MIT-licensed Claude Code plugin for SEO audits, content plans, schema markup and link checks.
 - **[Surfer SEO](https://surferseo.com/)** - AI-powered SEO tool for optimizing content and improving search engine rankings through on-page audits and suggestions.
 - **[Clearscope](https://www.clearscope.io/)** - AI-powered SEO platform that provides keyword insights and content optimization recommendations.
 

@@ -452,11 +452,13 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[Jasper AI](https://www.jasper.ai/)** - AI-powered tool for generating marketing content like blogs, emails, and ad copy.
 - **[Mutiny](https://www.mutinyhq.com/)** - Personalization platform to improve website conversions using AI.
 - **[Clearbit](https://clearbit.com/)** - Lead enrichment and data intelligence platform.
+- **[Revenue Scout](https://revenuescout.ai/)** - Uses AI to find sales leads on seven social platforms. You review and post reply drafts yourself. Free tier and paid plans.
 - **[Seventh Sense](https://www.theseventhsense.com/)** - AI tool for email send time optimization.
 - **[Smartly.io](https://www.smartly.io/)** - Automates social media ad creation and optimization.
 - **[Adzooma](https://www.adzooma.com/)** - AI-powered PPC campaign management platform.
 - **[Phrasee](https://www.phrasee.co/)** - AI tool that generates optimized marketing copy.
 - **[Crimson Hexagon](https://www.crimsonhexagon.com/)** - AI-based social media sentiment analysis platform.
+- **[Akii: SEO & AI Search Optimizer](https://github.com/akii-technologies-ltd/akii-seo-ai-search-optimizer)** - Free MIT-licensed Claude Code plugin for SEO audits, content plans, schema markup and link checks.
 - **[MarketMuse](https://www.marketmuse.com/)** - SEO content optimization platform using AI.
 - **[Chatfuel](https://www.chatfuel.com/)** - AI-driven chatbot for automating customer engagement on Messenger.
 - **[LogicBalls](https://logicballs.com/)** - An AI-powered writing tool to create any type of content and supercharge your productivity.
